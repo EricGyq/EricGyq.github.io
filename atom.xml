@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的商业分析师之路</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.ericgyq.cn/"/>
+  <updated>2019-08-27T15:28:28.965Z</updated>
+  <id>http://www.ericgyq.cn/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.ericgyq.cn/2019/08/27/hello-world/"/>
+    <id>http://www.ericgyq.cn/2019/08/27/hello-world/</id>
+    <published>2019-08-27T15:28:28.965Z</published>
+    <updated>2019-08-27T15:28:28.965Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
