@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.ericgyq.cn/"/>
-  <updated>2019-08-27T15:28:28.965Z</updated>
+  <updated>2019-08-31T14:50:06.000Z</updated>
   <id>http://www.ericgyq.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://www.ericgyq.cn/2019/08/27/hello-world/"/>
-    <id>http://www.ericgyq.cn/2019/08/27/hello-world/</id>
-    <published>2019-08-27T15:28:28.965Z</published>
-    <updated>2019-08-27T15:28:28.965Z</updated>
+    <title>hello world</title>
+    <link href="http://www.ericgyq.cn/2019/08/31/hello-world/"/>
+    <id>http://www.ericgyq.cn/2019/08/31/hello-world/</id>
+    <published>2019-08-31T14:25:00.000Z</published>
+    <updated>2019-08-31T14:50:06.000Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,10 @@
     
     </summary>
     
+      <category term="测试" scheme="http://www.ericgyq.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="http://www.ericgyq.cn/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
