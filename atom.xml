@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>我的商业分析师之路</title>
   
-  
+  <subtitle>想 做 说</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.ericgyq.cn/"/>
@@ -10,7 +10,7 @@
   <id>http://www.ericgyq.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Eric Gan</name>
     
   </author>
   
