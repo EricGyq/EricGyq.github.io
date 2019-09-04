@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.ericgyq.cn/"/>
-  <updated>2019-09-02T15:54:59.353Z</updated>
+  <updated>2019-09-04T15:21:58.692Z</updated>
   <id>http://www.ericgyq.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.ericgyq.cn/2019/09/01/xu-yan/"/>
     <id>http://www.ericgyq.cn/2019/09/01/xu-yan/</id>
     <published>2019-09-01T14:25:00.000Z</published>
-    <updated>2019-09-02T15:54:59.353Z</updated>
+    <updated>2019-09-04T15:21:58.692Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,10 @@
       
         
         
-          &lt;h1 id=&quot;博客简介&quot;&gt;&lt;a href=&quot;#博客简介&quot; class=&quot;headerlink&quot;
+          &lt;blockquote&gt;
+&lt;p&gt;博客简介&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h2&gt;&lt;h3 id=&quot;我是谁？&quot;&gt;&lt;a href=&quot;#我是谁？&quot;
         
       
     
